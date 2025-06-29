@@ -1,0 +1,315 @@
+﻿
+Plan de empresa: GreenCode Consulting, consultora tecnológica
+
+
+ PLAN DE EMPRESA 
+Resumen ejecutivo 
+GreenCode Consulting es una empresa familiar comprometida con la transformación digital de pymes, startups y emprendedores que buscan mejorar su competitividad a través de soluciones tecnológicas adaptadas a su realidad. En un entorno donde muchas empresas aún enfrentan dificultades para digitalizar sus procesos de forma eficiente y rentable, GreenCode aporta un enfoque cercano, personalizado y técnicamente sólido.
+La empresa está formada por tres socios con perfiles complementarios en consultoría SAP, desarrollo de software y gestión empresarial. Este equipo combina más de 30 años de experiencia en tecnología empresarial con una visión joven e innovadora. Su modelo operativo es ágil, remoto y escalable, reforzado por una red de colaboradores freelance que se activa según las necesidades de cada proyecto.
+Ofrecemos servicios de desarrollo de software a medida, automatización de procesos, consultoría SAP y acompañamiento digital. Nuestra propuesta de valor se basa en resolver problemas como la dependencia de tareas manuales, la baja integración tecnológica y la falta de conocimiento digital en las pymes. Nos diferenciamos por nuestra cercanía, capacidad de adaptación y agilidad operativa.
+La oportunidad de mercado es clara, según el INE (2025), solo en Andalucía existen más de 30.000 pymes del sector hostelero, de las cuales más de 7.500 demandan servicios de digitalización, especialmente en zonas como la provincia de Cádiz.
+Actualmente GreenCode Consulting se encuentra en fase avanzada de planificación. Con una estrategia definida y un modelo escalable, es un proyecto viable y sostenible, con potencial para crecer de la mano de sus clientes y convertirse en su socio tecnológico de confianza en el camino hacia la digitalización.
+________________
+
+
+Capítulo 1: Descripción de la empresa 
+Antes de presentar la idea de negocio, considero fundamental compartir brevemente mi trayectoria, ya que ha sido el motor que dio origen a GreenCode Consulting y la razón principal por la que decidí emprender este camino. En 2018 inicié mis estudios en Ingeniería de Sistemas en Venezuela, y tras cuatro años de formación, obtuve mi título en 2022. Durante ese proceso académico desarrollé un profundo interés por la tecnología, el desarrollo de software y las posibilidades que ofrece la digitalización para transformar realidades.
+Tras finalizar mis estudios universitarios, comencé a trabajar en BBVA Venezuela, donde formé parte del equipo de desarrollo de software interno. Durante mi estancia de tres años en la entidad, tuve la oportunidad de liderar un proyecto que fue premiado como el software más innovador de todo el banco en el país. Esta experiencia no solo reforzó mi pasión por la tecnología, sino que me impulsó a considerar seriamente la posibilidad de emprender y construir una empresa propia.
+Siempre he sentido un deseo muy fuerte de crear, innovar y resolver problemas reales a través de soluciones digitales. Esta inquietud se fortaleció con el apoyo incondicional de mis padres, Yamila y Rodney, quienes han sido mis principales referentes. En especial mi madre, ingeniera en informática, quien ha trabajado durante más de 30 años como consultora SAP en importantes empresas del sector farmacéutico. Su experiencia y ejemplo han sido claves para que hoy, juntas, podamos crear una consultora tecnológica que ayude a otras empresas a crecer.
+Con ese objetivo decidí trasladarme a España e iniciar el Máster en Creación de Empresas en la Universidad de Cádiz, convencida de que era el paso que necesitaba para consolidar mi idea. De esa visión nace GreenCode Consulting, una empresa familiar que ofrecerá servicios de desarrollo de software, automatización de procesos y consultoría SAP, con sede en Cádiz y la mirada puesta en digitalizar el tejido empresarial andaluz.
+
+
+
+
+   1. Antecedentes, historia de la empresa 
+La idea de GreenCode Consulting nació a finales de 2023, como resultado de mi experiencia profesional en el sector tecnológico y del impulso emprendedor que comparto con mi familia. Tras trabajar durante dos años como programadora en BBVA Venezuela y participar en el desarrollo de un software premiado por su innovación, sentí la motivación de crear una empresa que ofreciera soluciones tecnológicas reales a quienes más lo necesitan: pymes y emprendedores.
+Inspirada por la trayectoria de mi madre Yamila, consultora SAP con más de 30 años de experiencia, decidimos unir fuerzas para fundar una empresa familiar que combinara experiencia, visión técnica y pasión por la innovación. Así surge GreenCode Consulting, una consultora tecnológica con sede en Cádiz, que se encuentra actualmente en fase de desarrollo y prevé iniciar operaciones en 2026. Será nuestro primer proyecto empresarial conjunto.
+1.2. Declaración de misión, visión y valores 
+En GreenCode Consulting, nuestra misión es acompañar a pequeñas y medianas empresas, startups y emprendedores en su proceso de transformación digital. Lo hacemos mediante soluciones tecnológicas personalizadas, como el desarrollo de software a medida, automatización de procesos, consultoría SAP y asesoramiento digital estratégico. Nuestro objetivo es facilitar que cada cliente adopte herramientas tecnológicas que impulsen su productividad, eficiencia y crecimiento sostenible.
+Nuestra visión es convertirnos en una consultora tecnológica de referencia en Andalucía, reconocida por su cercanía, calidad y capacidad de adaptación. A medio plazo, aspiramos a consolidarnos a nivel nacional y abrirnos paso en mercados internacionales, ofreciendo servicios cada vez más especializados y escalables, sin perder nuestra esencia como empresa familiar comprometida con la innovación.
+Los valores de GreenCode Consulting:
+* Compromiso con el cliente: Escuchamos y comprendemos las necesidades de cada empresa para ofrecer soluciones ajustadas a su realidad.
+* Innovación aplicada: Apostamos por la tecnología útil y práctica, que tenga impacto real en el día a día de nuestros clientes.
+* Cercanía y trato humano: Nos implicamos personalmente en cada proyecto, creando relaciones de confianza duraderas.
+* Excelencia técnica: Ponemos al servicio de nuestros clientes más de 30 años de experiencia combinada en consultoría tecnológica y desarrollo de software.
+* Agilidad y eficiencia: Trabajamos de forma remota y colaborativa, con metodologías que nos permiten adaptarnos rápidamente a nuevos retos.
+* Responsabilidad: Valoramos la sostenibilidad, la ética profesional y el crecimiento conjunto, tanto con nuestros colaboradores como con nuestros clientes.
+ 1.3. Descripción de productos y servicios 
+GreenCode Consulting ofrece servicios tecnológicos personalizados, orientados a la transformación digital de pymes, startups y emprendedores que desean mejorar su competitividad mediante el uso estratégico de herramientas digitales. Todos los servicios se prestan de forma remota, adaptados a las necesidades de cada cliente, y con un enfoque modular y escalable. Nuestros servicios se agrupan en cuatro grandes áreas:
+1. Desarrollo de software a medida: Creamos soluciones tecnológicas personalizadas que resuelven problemas específicos de cada empresa. Desde aplicaciones internas hasta herramientas para gestión de clientes, inventario o ventas, trabajamos con tecnologías actualizadas y metodologías ágiles.
+2. Automatización de procesos empresariales: Ayudamos a digitalizar tareas manuales o repetitivas, mejorando la eficiencia operativa y reduciendo errores. Esto incluye flujos de trabajo automatizados, integración de sistemas y optimización de procesos clave.
+3. Consultoría SAP especializada: Gracias a la amplia experiencia de uno de nuestros socios fundadores, ofrecemos asesoramiento técnico y funcional en el uso de SAP, el software ERP líder a nivel empresarial.
+4. Acompañamiento digital: Asesoramos a nuestros clientes en su camino de digitalización, ayudándoles a identificar qué soluciones adoptar, cómo integrarlas y cómo mejorar su competitividad digital. Este servicio puede incluir desde diagnósticos tecnológicos hasta formación puntual.
+5. Formación tecnológica
+Cada cliente tiene su propio punto de partida y objetivos distintos. Por eso, no aplicamos un catálogo cerrado de productos, sino que trabajamos de forma personalizada, partiendo de un análisis de necesidades y ofreciendo un servicio flexible, ajustado a sus capacidades y metas. Desde el inicio, todos estos servicios estarán disponibles, aunque su implementación variará según la naturaleza de cada proyecto y el ritmo de digitalización del cliente.
+1.4. Situación actual 
+GreenCode Consulting se encuentra en una fase avanzada de diseño estratégico. El equipo fundador ya ha definido la propuesta de valor, los servicios clave y el modelo de operación basado en estructura remota y colaboraciones freelance. Se han realizado entrevistas preliminares con pymes locales del sector turístico y hostelero para validar sus principales necesidades digitales. Inicialmente, la empresa centrará su actividad en estos sectores dentro de la provincia de Cádiz, aprovechando el gran potencial de digitalización existente en la región. La fecha prevista de inicio de operaciones es enero de 2026, y el presente plan de empresa servirá como guía para su lanzamiento.
+1.5. Modelo de negocio 
+Nuestro modelo de negocio se representa a través del Business Model Canvas (Figura 1.1). Operamos bajo un enfoque B2B, centrado principalmente en pequeñas y medianas empresas del sector hostelero y turístico en Andalucía, especialmente en la provincia de Cádiz. Estas empresas, aún poco digitalizadas, enfrentan múltiples retos para integrar tecnologías que mejoren su eficiencia operativa y competitividad. La falta de tiempo, conocimientos técnicos y recursos humanos impide a muchos negocios abordar su transformación digital con garantías.
+GreenCode Consulting nace para ofrecer soluciones tecnológicas personalizadas que respondan a estas necesidades: desarrollo de software a medida, automatización de procesos, consultoría SAP y acompañamiento digital. Nuestra propuesta de valor se basa en la cercanía con el cliente, la agilidad operativa y la capacidad de adaptación a empresas con estructuras reducidas. Apostamos por relaciones de largo plazo, canales digitales efectivos y un modelo escalable que se apoya en un equipo fundador sólido y una red de colaboradores freelance.
+Esta combinación nos permite diferenciarnos claramente en el mercado, ofreciendo servicios de alto valor técnico sin que los clientes deban asumir grandes costes ni complejidades en su implementación.
+  
+
+   
+Fuente: Elaboración propia 
+ 
+1.6. Redes de contacto, acuerdos y preacuerdos (Mapa de stakeholders) 
+En la Figura 1.2 se presenta el mapa de los stakeholders principales de GreenCode Consulting, clasificados según su relevancia estratégica para el desarrollo del proyecto. En el centro del modelo se sitúan los clientes, especialmente pymes y emprendedores del sector hostelero y turístico en Andalucía, que representan nuestro objetivo prioritario. Son ellos quienes justifican la existencia del proyecto, y con quienes mantenemos una relación cercana y personalizada para adaptar nuestras soluciones tecnológicas a su realidad.
+En segundo lugar, se encuentran los socios fundadores y empleados, tres profesionales con perfiles complementarios en consultoría SAP, desarrollo de software y gestión empresarial. Su compromiso y experiencia son esenciales para garantizar la ejecución eficiente de los servicios. En tercer lugar, destacan los proveedores tecnológicos, como plataformas de gestión de proyectos, servidores cloud, licencias de software de desarrollo, herramientas colaborativas (Trello, GitHub, Notion, etc.) y soluciones de automatización. La calidad y disponibilidad de estos recursos son fundamentales para nuestra operatividad.
+En un nivel intermedio de prioridad se sitúan los colaboradores freelance, programadores especializados o expertos en áreas concretas como marketing digital o análisis de datos, que se incorporan en función de la demanda. También se incluyen aquí las instituciones públicas y privadas, como Extenda, Cámara de Comercio, Andalucía Emprende o UCAEmprende, que ofrecen formación, networking y programas de apoyo al emprendimiento. Por último, los medios de comunicación y redes profesionales como LinkedIn juegan un papel relevante en la visibilidad del proyecto y la captación de oportunidades comerciales.
+En un nivel de menor prioridad, aunque no por ello irrelevante, encontramos a la sociedad (como potencial público beneficiario de nuestros servicios a través del tejido empresarial local) y la competencia, tanto grandes consultoras como otros pequeños proveedores tecnológicos. Estos últimos nos permiten mantenernos atentos a las tendencias del mercado y encontrar oportunidades de diferenciación continua.
+Este ecosistema de relaciones permitirá a GreenCode crecer de forma estratégica, escalable y sostenible en su entorno regional y, progresivamente, en nuevos mercados.
+Figura 1.2. Mapa Stakeholders
+  
+
+  
+
+Fuente: Elaboración propia 
+1.7. Forma jurídica y estructura de propiedad 
+La forma jurídica elegida para GreenCode Consulting es la Sociedad Limitada (S.L.), compuesta por tres socios fundadores, todos miembros de una misma familia. La participación societaria se distribuye de forma equitativa, con un 33,3% de participación cada uno entre Yamila Álvarez (Ingeniero de Software y Consultora SAP), Rodney Soto (gestión financiera y estratégica) y María Valentina Soto (Ingeniero deSistemas).
+La empresa se constituirá formalmente en enero de 2026 y operará inicialmente en modalidad remota, con domicilio social en Cádiz, Andalucía, inicialmente como base para atender a empresas del sector hostelero y turístico de la región.
+Capítulo 2: Análisis del sector 
+2.1. Definición del sector 
+GreenCode Consulting se encuadra en el sector de las Tecnologías de la Información y la Comunicación (TIC), concretamente bajo el CNAE 6201: Actividades de programación informática, y de forma complementaria, en el CNAE 6202: Actividades de consultoría informática. Ambos pertenecen a la Sección J: Información y comunicaciones.
+Nuestra actividad principal es el desarrollo de software a medida, automatización de procesos y consultoría tecnológica para pymes, especialmente del sector hostelero y turístico. Este sector está en crecimiento en Andalucía, con una demanda creciente de servicios digitales, lo que refuerza la viabilidad del proyecto en el entorno actual.
+2.2. Características del sector 
+El sector de la consultoría tecnológica y los servicios TIC (Tecnologías de la Información y la Comunicación) se encuentra en una etapa de fuerte expansión y transformación continua. En España, este sector ha mantenido un crecimiento sostenido durante los últimos años, impulsado por la necesidad de digitalización en todos los niveles empresariales. Según el Observatorio Nacional de Tecnología y Sociedad (ONTSI, 2022), el segmento de las TIC representa una parte esencial del tejido económico nacional, y se estima que más del 80 % de las pymes aún tienen algún grado de carencia en procesos de transformación digital, especialmente fuera de los grandes núcleos urbanos.
+La naturaleza del sector se caracteriza por su dinamismo, necesidad de constante actualización tecnológica y fuerte competencia. La digitalización acelerada derivada de la pandemia del COVID-19 ha puesto en evidencia la necesidad urgente de adoptar herramientas digitales, plataformas colaborativas, comercio electrónico, automatización de procesos y soluciones en la nube. Todo esto ha generado una creciente demanda de servicios de consultoría tecnológica, sobre todo entre las pymes que no disponen de departamentos IT propios ni experiencia interna en la adopción de nuevas tecnologías.
+Otra característica distintiva del sector es su creciente especialización. Hoy en día, las empresas no buscan solo desarrolladores o técnicos, sino socios estratégicos capaces de acompañarlas en todo el proceso de digitalización, desde el análisis inicial hasta la implementación, integración y mantenimiento de soluciones a medida. Consultoras como GreenCode Consulting, que se enfocan en resolver problemas específicos de colectivos poco digitalizados (como el sector hostelero o comercial tradicional), tienen un espacio cada vez más relevante en este mercado.
+Además, la incorporación de tecnologías emergentes como la inteligencia artificial, big data, ciberseguridad o blockchain también ha contribuido a la diversificación de la oferta, lo que permite a empresas como GreenCode crear propuestas de valor altamente personalizadas para cada tipo de cliente.
+
+
+2.3. Análisis de la competencia 
+El entorno competitivo del sector tecnológico y de consultoría TI es amplio y diverso, especialmente en una región como Andalucía, donde se ha impulsado el emprendimiento digital mediante programas públicos y privados. En la provincia de Cádiz, GreenCode Consulting encuentra como competencia directa a pequeñas consultoras tecnológicas que ofrecen servicios de diseño web, soluciones ERP básicas, desarrollo de tiendas online y soporte técnico.
+Entre los actores locales destacan empresas como Eticonsa, especializada en digitalización para el sector hostelero mediante paquetes cerrados de servicios tecnológicos; Mowomo, centrada en soluciones web basadas en WordPress; e Idicit, una empresa de software a medida con presencia en varios sectores. También compiten freelancers y pequeños desarrolladores que ofrecen precios más bajos, aunque generalmente sin un enfoque consultivo integral o especialización en verticales como SAP o automatización de procesos.
+Las barreras de entrada al sector son moderadas. Técnicamente, crear una empresa de desarrollo es accesible, pero diferenciarse y ganar cuota de mercado implica experiencia, reputación y una propuesta de valor clara. GreenCode Consulting se posiciona como una empresa que no solo desarrolla tecnología, sino que actúa como un aliado estratégico en el proceso de transformación digital, con especial énfasis en el trato humano, la personalización y la consultoría de procesos.
+Además, existen amenazas derivadas de plataformas low-code/no-code como Wix, Shopify o Bubble, que permiten a emprendedores crear sus propias páginas web sin conocimientos técnicos. Sin embargo, estas soluciones suelen ser limitadas en escalabilidad, integración y personalización, lo cual representa una oportunidad para empresas como GreenCode que pueden ofrecer un acompañamiento más completo.
+2.4. Perspectivas a largo plazo 
+Las perspectivas a largo plazo para el sector TIC en general, y para GreenCode Consulting en particular, son muy prometedoras. La digitalización de las pymes es un proceso irreversible, y todo apunta a que en los próximos años aumentará la inversión en tecnología, no solo por parte de grandes empresas, sino especialmente de pequeñas y medianas que buscan sobrevivir y crecer en un entorno cada vez más exigente.
+Según el ONTSI (2022), los sectores que más invertirán en transformación digital en los próximos cinco años serán comercio, turismo, educación, sanidad y hostelería. Esto supone una oportunidad directa para el modelo de negocio de GreenCode Consulting, que ya ha identificado al sector hostelero como uno de sus nichos principales. Cádiz, como provincia con gran peso en turismo y servicios, representa una excelente base de operaciones y expansión para este tipo de iniciativas.
+A medio y largo plazo, GreenCode Consulting podrá escalar su modelo de forma sostenible a nivel nacional, aprovechando alianzas con instituciones de apoyo al emprendimiento, la participación en programas de digitalización y la captación de clientes mediante una estrategia basada en referencias, visibilidad digital y posicionamiento por especialización.
+El reto principal estará en mantenerse al día con las tendencias tecnológicas, por lo que la empresa deberá invertir en formación continua, mejora de procesos internos y posiblemente en el desarrollo de productos propios que amplíen su oferta. El uso de metodologías ágiles, herramientas colaborativas y un modelo de trabajo remoto contribuirán a reducir costes, facilitar la expansión y atraer talento externo.
+En resumen, GreenCode Consulting se encuentra en un sector en expansión, con margen para crecer y consolidarse como una consultora de referencia en digitalización de pymes. Su visión estratégica, su enfoque centrado en el cliente y su capacidad técnica son activos clave para asegurar su éxito a largo plazo.
+Capítulo 3: Análisis del mercado 
+3.1. Mercado objetivo 
+GreenCode Consulting dirige su oferta principalmente a pequeñas y medianas empresas del sector hostelero y turístico en la provincia de Cádiz, una región con un tejido empresarial tradicional que aún enfrenta retos en su proceso de digitalización. Nuestro cliente ideal son pymes que operan de forma presencial, muchas veces con procesos administrativos manuales, escasa presencia digital y una baja integración de herramientas tecnológicas. Estas empresas, a menudo con recursos limitados y sin departamentos tecnológicos propios, buscan soluciones asequibles, adaptadas y confiables que les permitan mejorar su eficiencia, competitividad y atención al cliente.
+Además del sector hostelero, se contempla atender a emprendedores y startups en fase inicial, que requieren apoyo técnico en desarrollo de software a medida, automatización de procesos y acompañamiento digital, pero que no cuentan con una estructura interna para gestionarlo. Según Channel Partner (2023), el mercado TIC en España alcanzó un valor de 54.000 millones de euros en 2023, lo que muestra un ecosistema dinámico, especialmente impulsado por la digitalización de sectores tradicionalmente menos tecnológicos. Este entorno representa una oportunidad clara para empresas como GreenCode, que combinan conocimiento técnico con cercanía al cliente local.
+Nuestro mercado objetivo, por tanto, no solo se define por la actividad económica de los clientes, sino también por sus necesidades digitales específicas. Nos centramos en empresas que buscan tecnología sin complicaciones, con soluciones diseñadas desde cero y un enfoque completamente personalizado.
+3.2. Comportamiento del comprador 
+El comportamiento de compra en este sector se basa en la búsqueda de soluciones tecnológicas personalizadas, asequibles y acompañadas de soporte técnico confiable. Las pymes priorizan la flexibilidad en el diseño de los productos, valoran especialmente la posibilidad de adaptar los sistemas a sus procesos internos y buscan consultores tecnológicos que comprendan su negocio. Muchas veces, el precio es un factor clave, pero siempre condicionado a la percepción de valor agregado, la mejora de eficiencia y el ahorro operativo que la solución pueda ofrecer (Alpes Solutions, 2023; Destillery, 2024).
+Otro aspecto relevante es el soporte postventa. Las empresas demandan asistencia técnica continua y valoran a los proveedores que ofrecen acompañamiento a largo plazo. La proximidad geográfica también es un elemento importante en la toma de decisión de compra, especialmente para pymes tradicionales que valoran el trato cercano y el conocimiento del contexto local (VGS, 2023). En este sentido, el enfoque de GreenCode, que combina experiencia técnica y atención personalizada, encaja bien con las expectativas de este tipo de comprador.
+La tendencia creciente a adoptar soluciones digitales más eficientes se ha visto impulsada tras la pandemia, que actuó como catalizador de la digitalización. Actualmente, muchas empresas reconocen la necesidad de transformar sus procesos, pero no saben por dónde empezar. Aquí es donde el rol de consultoras como GreenCode se vuelve fundamental, al ofrecer una guía clara y soluciones adaptadas.
+   
+ 
+Figura 1.3. Mapa de empatía 
+
+
+3.3. Desviaciones posibles 
+Como en todo proyecto emergente, existen desviaciones posibles que deben contemplarse para mitigar riesgos. Una de ellas es la resistencia al cambio por parte de potenciales clientes. Muchas pymes, especialmente en el sector hostelero, se muestran reticentes a incorporar tecnología por temor al coste, la complejidad o simplemente por desconocimiento. Para abordar esta barrera, GreenCode Consulting se enfocará en realizar un proceso de diagnóstico inicial gratuito, demostrando con ejemplos concretos el valor que puede aportar la digitalización.
+Otra desviación posible es la aparición de nuevos competidores o el fortalecimiento de herramientas low-code/no-code como WordPress, Wix o Shopify. Estas plataformas permiten a algunos negocios crear sus propias soluciones sin ayuda externa. No obstante, este tipo de herramientas son limitadas cuando se requieren integraciones complejas, seguridad robusta o escalabilidad. Aquí, GreenCode puede diferenciarse ofreciendo soluciones hechas a medida y soporte técnico cercano y humano.
+Por otro lado, la dependencia inicial de la captación de clientes en el entorno local puede ralentizar el crecimiento. Para contrarrestar esto, se prevé una estrategia de visibilidad digital y networking en eventos de emprendimiento. Finalmente, la obsolescencia tecnológica también representa una amenaza latente. Para hacerle frente, se promoverá la formación continua del equipo y la incorporación de tendencias como la automatización, inteligencia artificial o análisis de datos.
+En resumen, el mercado presenta grandes oportunidades, pero también desafíos que deben ser gestionados con estrategia, flexibilidad y cercanía. GreenCode Consulting está bien posicionada para ofrecer soluciones digitales reales, sostenibles y alineadas con las necesidades específicas de su segmento objetivo.
+Capítulo 4: Plan estratégico 
+4.1. Análisis externo 
+El sector de las Tecnologías de la Información (TI) en España continúa mostrando un crecimiento sostenido, impulsado principalmente por la acelerada digitalización de las pequeñas y medianas empresas. En 2023, el mercado TI alcanzó un valor aproximado de 54.000 millones de euros (Channel Partner, 2023), y se espera que esta tendencia se mantenga gracias al impulso de los fondos europeos y las políticas públicas de transformación digital. Este contexto representa una oportunidad significativa para empresas como GreenCode Consulting, cuya propuesta se centra en ofrecer soluciones tecnológicas personalizadas a pymes del sector hostelero y turístico, sectores en los que aún existen importantes brechas digitales.
+Por otro lado, la competencia en el sector es notable, especialmente por parte de consultoras locales y plataformas low-code/no-code que permiten a los usuarios desarrollar soluciones sin conocimientos avanzados de programación. Sin embargo, muchas de estas opciones carecen de personalización y acompañamiento, dos elementos que GreenCode integra como ejes fundamentales de su servicio. Asimismo, el auge del comercio electrónico y la necesidad de automatización de procesos son factores que continúan alimentando la demanda de soluciones tecnológicas adaptadas.
+El entorno presenta también algunas amenazas externas, como la rápida obsolescencia tecnológica o los cambios normativos en materia de protección de datos. Sin embargo, la capacidad de adaptabilidad, el enfoque en la innovación y el acompañamiento personalizado posicionan a GreenCode en una posición favorable para afrontar estos desafíos. 
+4.2. Análisis interno 
+GreenCode Consulting nace como una empresa familiar impulsada por la experiencia de sus socios fundadores en consultoría SAP, desarrollo de software y gestión empresarial. La complementariedad de estos perfiles proporciona una base sólida para la gestión técnica y estratégica del proyecto. En sus fases iniciales, la empresa operará bajo un modelo remoto, apoyado en herramientas colaborativas y una red de profesionales freelance, lo que permite reducir costes operativos sin comprometer la calidad del servicio.
+En cuanto a los recursos materiales, GreenCode cuenta con equipos informáticos propios, licencias de software de desarrollo, plataformas en la nube y metodologías ágiles (Scrum, Design Thinking) que optimizan la planificación y ejecución de los proyectos. La empresa está comprometida con la formación continua del equipo, incluyendo certificaciones en tecnologías clave como IA, automatización de procesos y soluciones cloud.
+Financieramente, la inversión inicial se ha destinado principalmente al desarrollo de la marca, la captación de clientes y la adquisición de herramientas necesarias para prestar servicios de calidad. Se ha diseñado una estrategia de crecimiento progresivo que prioriza la sostenibilidad económica y la consolidación del mercado local como primer paso hacia una futura expansión nacional.
+4.3. Matriz DAFO 
+En la siguiente tabla se encuentra la matriz DAFO donde se presentan las debilidades y fortalezas internas, así como las amenazas y oportunidades externas. 
+A continuación, se presenta el análisis DAFO en un cuadro resumen:
+Factores Internos
+	Factores Externos
+	Debilidades
+	Amenazas
+	- Recursos financieros limitados.
+	- Competencia de grandes consultoras y plataformas low-code/no-code.
+	- Poca popularidad y reconocimiento de la marca al inicio.
+	- Rivalidad con la competencia en el factor de precios competitivos.
+	- Equipo comercial limitado.
+	- Rápida obsolescencia tecnológica y bajos recursos, por lo que no todos las pymes podrán mantener un contrato a largo plazo.
+	- Dependencia inicial de alianzas, networking, publicidad.
+	- Incertidumbre económica derivada de la inflación y el aumento de los tipos de interés.
+	- Necesidad de actualización constante en tecnologías emergentes.
+	- Posibles cambios regulatorios a los que hay que adaptarse en materia de tecnología y protección de datos.
+	Fortalezas
+	Oportunidades
+	- Especialización en pymes.
+	- Apoyo financiero y subvenciones para la digitalización de pymes y emprendedores.
+	- Modelo de servicio end-to-end con acompañamiento continuo.
+	- Aumento de la demanda de servicios digitales y transformación tecnológica.
+	- Uso de tecnologías emergentes (IA, cloud computing, IoT).
+	- Crecimiento del ecosistema emprendedor en España.
+	- Enfoque ágil y de Design Thinking.
+	- Expansión del comercio electrónico y la digitalización empresarial.
+	- Asesoría completa para una pyme, la cual no suele tener la suficiente experiencia en áreas de tecnología y requiere una guiatura mayor que otras empresas de mayor tamaño.
+	- Las empresas tecnológicas suelen ofrecer un esquema de trabajo online, pero en el caso de las empresas pequeñas, donde hay gran incertidumbre y desconocimiento un esquema semi-presencial puede ofrecer mayor transparencia y confianza en el proceso.
+	- Flexibilidad y adaptabilidad en los servicios.
+	- Desarrollo de nuevas tecnologías y automatización.
+	 
+4.4. Objetivos estratégicos 
+1. Consolidación de GreenCode Consulting como consultora tecnológica referente en Andalucía.
+La meta principal es posicionarse como la consultora de confianza para pymes del sector hostelero y turístico en Cádiz, ofreciendo soluciones a medida con una propuesta cercana, eficaz y especializada. Para ello, se proyecta alcanzar una cuota del 10% del mercado local en el primer año mediante alianzas estratégicas, marketing digital y participación en eventos sectoriales.
+2. Prestación de servicios de alta calidad y fidelización de clientes: GreenCode se compromete a brindar una experiencia de cliente excepcional, con soporte continuo y soluciones efectivas. Se establecerá un sistema de encuestas de satisfacción y KPIs de calidad, buscando obtener una valoración positiva superior al 90% en todos los proyectos ejecutados.
+3. Sostenibilidad financiera y rentabilidad operativa: Uno de los objetivos centrales será alcanzar el punto de equilibrio financiero al finalizar el primer año, controlando cuidadosamente los costes operativos y priorizando la inversión en áreas clave como captación de clientes y mejora continua.
+4. Expansión geográfica y crecimiento estratégico: A medio plazo, se prevé extender los servicios a otras regiones como Madrid, Valencia y Barcelona, mediante la captación de nuevos clientes, participación en ferias y eventos tecnológicos, y exploración de alianzas con actores locales.
+5. Innovación continua y actualización tecnológica: GreenCode fomentará una cultura de aprendizaje y mejora permanente, garantizando que el equipo esté al día con las tecnologías emergentes, incluyendo IA, analítica de datos y automatización, con el fin de mantener una ventaja competitiva sostenible.
+
+
+ 
+ 
+
+
+Capítulo 7: Plan de Operaciones
+7.1 Definición técnica de productos y servicios
+GreenCode Consulting ofrece una gama de servicios tecnológicos personalizados orientados a la transformación digital de pymes, startups y emprendedores. Estos servicios están diseñados para optimizar procesos, mejorar la eficiencia y garantizar una adopción tecnológica escalable. A continuación, se detallan las características clave, funcionalidades y especificaciones técnicas:
+1. Desarrollo de software a medida
+* Características: Soluciones tecnológicas personalizadas que resuelven problemas específicos de cada empresa, adaptándose a sus flujos de trabajo y necesidades operativas.
+* Funcionalidades: Desarrollo de aplicaciones internas, herramientas para gestión de clientes (CRM), inventario, ventas, y sistemas de reportes automatizados.
+* Especificaciones técnicas: Utilización de tecnologías actualizadas (JavaScript, Python, .NET) y metodologías ágiles como Scrum y Design Thinking para garantizar flexibilidad y eficiencia en el desarrollo.
+
+
+2. Automatización de procesos empresariales
+* Características: Digitalización de tareas manuales o repetitivas para reducir errores y aumentar la productividad.
+* Funcionalidades: Implementación de flujos de trabajo automatizados, integración de sistemas (ERP, CRM), y optimización de procesos clave como facturación, logística y atención al cliente.
+* Especificaciones técnicas: Uso de herramientas de automatización (Zapier, Power Automate) y plataformas en la nube (AWS, Azure) para garantizar escalabilidad y seguridad.
+
+
+3. Consultoría SAP especializada
+* Características: Asesoramiento técnico y funcional en el uso de SAP, desde la implementación inicial hasta la optimización continua.
+* Funcionalidades: Configuración de módulos, migración a SAP S/4HANA, capacitación de usuarios y soporte post-implementación.
+* Especificaciones técnicas: Experiencia certificada en SAP ERP, SAP S/4HANA, y soluciones complementarias como SAP SuccessFactors y SAP Ariba.
+
+
+4. Acompañamiento digital
+* Características: Asesoramiento estratégico en el proceso de digitalización, identificando oportunidades de mejora y tecnologías clave.
+* Funcionalidades: Diagnósticos tecnológicos, formación puntual para equipos, y recomendación de herramientas adaptadas a cada negocio.
+* Especificaciones técnicas: Uso de frameworks de análisis (SWOT, BPMN) y plataformas de formación en línea (Coursera, Udemy) para garantizar un aprendizaje continuo.
+
+
+
+
+5. Análisis de datos y reportes con Power BI
+* Características: Utilización de Power BI para crear reportes y análisis de datos precisos y visuales.
+* Funcionalidades: Creación de informes y tablas de contenido, visualización de datos con gráficos y mapas, y automatización de procesos de análisis.
+* Especificaciones técnicas: Utilización de Power BI Desktop y Power BI Service para crear y compartir informes y análisis de datos con otros usuarios.
+
+
+
+
+7.2 Compras y proveedores
+Para garantizar la operatividad de GreenCode Consulting, se requieren los siguientes recursos:
+* Plataformas de gestión de proyectos: Trello (para gestión ágil), GitHub (control de versiones), Notion (documentación colaborativa).
+* Servidores cloud: AWS (para escalabilidad), Google Cloud (machine learning), Microsoft Azure (soluciones empresariales integradas).
+* Licencias de software de desarrollo: Visual Studio (entorno de desarrollo), IntelliJ IDEA (para Java), Docker (contenedores).
+* Herramientas colaborativas: Slack (comunicación interna), Zoom (videollamadas y webinars).
+* Soluciones de automatización: Zapier (automatización de tareas), IFTTT (integración de aplicaciones).
+Se priorizarán proveedores con altos estándares de seguridad, soporte técnico 24/7 y flexibilidad en planes de pago. Se realizarán evaluaciones trimestrales para asegurar que los servicios contratados cumplan con las expectativas de rendimiento y costo-beneficio.
+
+
+7.3 Plan de producción
+El proceso de producción en GreenCode Consulting sigue metodologías estructuradas para garantizar calidad y eficiencia:
+1. Desarrollo de Software a Medida
+Metodología iterativa con enfoque en calidad y escalabilidad
+* Análisis de Requerimientos: Talleres colaborativos con stakeholders para priorizar funcionalidades clave.
+* Diseño UX/UI + Arquitectura:
+   * Prototipado interactivo (Figma).
+   * Diagramas técnicos (UML/Microservicios).
+* Desarrollo Ágil:
+   * Sprints de 2 semanas con revisiones de código (GitLab Code Review).
+   * Pair programming para módulos críticos.
+* Control de Calidad:
+   * Pruebas automatizadas (JUnit, Selenium).
+   * Pruebas de estrés (JMeter).
+* Despliegue:
+   * CI/CD con pipelines en GitLab.
+   * Rollback automático en fallos.
+* Mantenimiento Proactivo:
+   * Monitoreo con New Relic/Dynatrace.
+   * Actualizaciones trimestrales de seguridad.
+Herramientas clave: Jira (scrum boards), GitLab (DevOps), Postman (APIs), Docker (contenedores).
+2. Automatización de Procesos (RPA)
+Transformación digital de operaciones manuales
+* Auditoría de Procesos:
+   * Mapeo de tareas repetitivas (AS-IS/TO-BE).
+   * ROI analysis para priorización.
+* Diseño de Bots:
+   * Flujos documentados con BPMN.
+   * Validación con usuarios finales.
+* Implementación Escalonada:
+   * Pilotaje en entornos controlados.
+   * Escalado con logs detallados (ELK Stack).
+* Optimización Continua:
+   * Machine Learning para bots cognitivos.
+Herramientas clave: UiPath (orquestación), Power Automate (integración Office 365), Celonis (análisis de procesos).
+3. Consultoría SAP
+Implementaciones con enfoque en adopción organizacional
+* Diagnóstico:
+   * Gap analysis vs. best practices.
+   * Roadmap con SAP Activate.
+* Personalización:
+   * Desarrollo de módulos ABAP/Fiori.
+   * Integraciones con middleware (SAP PI).
+* Gestión del Cambio:
+   * Training adaptado por roles.
+   * Sandbox para pruebas de usuarios.
+* Soporte Nivel Premium:
+   * SLA de 4 horas para incidentes P1.
+   * Health checks semestrales.
+Herramientas clave: SAP Solution Manager (gobernanza), Fiori (UX), SAP Signavio (optimización).
+
+
+7.4 Plan de desarrollo del producto y servicios
+En GreenCode Consulting, nuestro plan de desarrollo del producto y servicios se enfoca en innovar y mejorar continuamente nuestros servicios para satisfacer las necesidades de nuestros clientes. Nuestro roadmap de innovación incluye:
+
+
+Inteligencia Artificial
+* Integración de chatbots: Desarrollamos soluciones de software que incluyen chatbots personalizados para ofrecer asistencia a los clientes y mejorar la experiencia del usuario.
+* Análisis predictivo: Utilizamos técnicas de análisis predictivo para identificar tendencias y patrones en los datos, lo que nos permite tomar decisiones informadas y anticipar necesidades de los clientes.
+Expansión de servicios SAP
+* Incorporación de módulos avanzados: Ampliamos nuestra oferta de servicios SAP con la incorporación de módulos avanzados como SAP BW/4HANA, lo que nos permite ofrecer soluciones más complejas y personalizadas a nuestros clientes.
+Automatización avanzada
+* Uso de machine learning: Aplicamos técnicas de machine learning para optimizar procesos y mejorar la eficiencia en nuestros servicios, lo que nos permite ofrecer soluciones más rápidas y precisas a nuestros clientes.
+Ciberseguridad
+* Desarrollo de consultoría especializada: Creamos una consultoría especializada en protección de datos para ayudar a nuestros clientes a identificar y mitigar riesgos de ciberseguridad, lo que les permite proteger sus activos y mantener la confianza de sus clientes.
+7.5 Desviaciones posibles, cuellos de botella y riesgos asumibles
+En GreenCode Consulting, estamos conscientes de que el entorno de negocios está en constante evolución y que existen riesgos y desafíos que pueden afectar nuestra capacidad para alcanzar nuestros objetivos. Por eso, hemos identificado algunos de los posibles desafíos que podríamos enfrentar y hemos desarrollado estrategias de mitigación para abordarlos.
+
+
+* Resistencia al cambio por parte de clientes
+Uno de los principales desafíos que podemos enfrentar es la resistencia al cambio por parte de nuestros clientes. Los clientes pueden ser reacios a adoptar nuevas tecnologías o procesos, lo que puede obstaculizar nuestra capacidad para implementar soluciones innovadoras. Para mitigar este riesgo, hemos decidido realizar pilotos gratuitos y workshops demostrativos para mostrar la valor que nuestras soluciones pueden ofrecer. De esta manera, podemos educar a nuestros clientes sobre los beneficios de nuestro trabajo y ayudarlos a entender cómo podemos ayudarlos a alcanzar sus objetivos.
+
+
+* Competencia creciente
+Otro desafío que podemos enfrentar es la competencia creciente en el mercado. En un entorno de negocios cada vez más competitivo, es fundamental que nos diferenciemos de nuestros competidores para mantener nuestra ventaja competitiva. Para abordar este riesgo, hemos decidido enfocarnos en ofrecer un soporte personalizado y documentar casos de éxito para demostrar la efectividad de nuestras soluciones. De esta manera, podemos establecer una relación sólida con nuestros clientes y demostrar nuestra capacidad para ayudarlos a alcanzar sus objetivos.
+Dependencia de talento especializado
+También es posible que encontremos dificultades para mantener un equipo de talento especializado en tecnologías emergentes. En un entorno de negocios que cambia rápidamente, es fundamental que nos aseguremos de que nuestro equipo tenga las habilidades y conocimientos necesarios para mantenerse a la vanguardia. Para abordar este riesgo, hemos decidido invertir en programas de capacitación interna y establecer alianzas con universidades para asegurarnos de que nuestro equipo tenga acceso a la educación y capacitación que necesitan.
+
+
+* Obsolescencia tecnológica
+Finalmente, es posible que encontremos dificultades para mantenerse actualizados con las últimas tecnologías y tendencias. En un entorno de negocios que cambia rápidamente, es fundamental que nos aseguremos de que nuestro equipo tenga acceso a las últimas herramientas y tecnologías para mantenerse a la vanguardia. Para abordar este riesgo, hemos decidido invertir en I+D y participar en ferias tecnológicas para asegurarnos de que nuestro equipo tenga acceso a las últimas tecnologías y tendencias.
+Este plan operativo asegura que GreenCode Consulting mantenga su ventaja competitiva mientras se adapta a las demandas del mercado. Al identificar y abordar estos riesgos y desafíos, podemos mantener nuestra posición como líder en el mercado y seguir creciendo y prosperando en un entorno de negocios cada vez más competitivo.
+
+
+Capítulo 8: Plan de Tecnologías de la Información
+8.1 Integraciones y sistemas externos
+En GreenCode Consulting, nos esforzamos por ofrecer soluciones integradas y eficientes que se conecten con las tecnologías y plataformas más avanzadas del mercado. Nuestras integraciones y sistemas externos permiten a nuestros clientes aprovechar al máximo las herramientas y servicios que necesitan para crecer y prosperar en un entorno digital en constante evolución.
+Plataformas de gestión de proyectos
+* Trello: Utilizamos Trello para gestionar tareas y proyectos de manera efectiva y visual. Con Trello, podemos crear tableros para diferentes proyectos, asignar tareas y responsabilidades a los miembros del equipo, y monitorear el progreso en tiempo real.
+* GitHub: Utilizamos GitHub para controlar versiones y colaborar en el desarrollo de software. Con GitHub, podemos almacenar y compartir nuestro código, colaborar con otros desarrolladores y gestionar versiones de nuestro software de manera efectiva.
+Servidores cloud
+* AWS: Utilizamos AWS como plataforma de alojamiento de aplicaciones y almacenamiento de datos. Con AWS, podemos crear aplicaciones escalables y seguras, almacenar grandes cantidades de datos y acceder a una amplia gama de herramientas y servicios en la nube.
+* Google Cloud: Utilizamos Google Cloud como plataforma de alojamiento de aplicaciones y almacenamiento de datos. Con Google Cloud, podemos crear aplicaciones escalables y seguras, almacenar grandes cantidades de datos y acceder a una amplia gama de herramientas y servicios en la nube.
+* Microsoft Azure: Utilizamos Microsoft Azure como plataforma de alojamiento de aplicaciones y almacenamiento de datos. Con Microsoft Azure, podemos crear aplicaciones escalables y seguras, almacenar grandes cantidades de datos y acceder a una amplia gama de herramientas y servicios en la nube.
+Herramientas colaborativas
+* Slack: Utilizamos Slack como herramienta de comunicación y reuniones virtuales. Con Slack, podemos crear canales para diferentes temas, compartir archivos y recursos, y comunicarnos de manera efectiva con nuestros clientes y colegas.
+* Zoom: Utilizamos Zoom como herramienta de reuniones virtuales. Con Zoom, podemos crear reuniones en línea seguras y efectivas, compartir pantalla y archivo, y comunicarnos de manera efectiva con nuestros clientes y colegas.
+Soluciones de automatización
+* Zapier: Utilizamos Zapier para automatizar flujos de trabajo y conectar diferentes aplicaciones y servicios. Con Zapier, podemos crear zaps para automatizar tareas repetitivas, sincronizar datos y mejorar la eficiencia en nuestros procesos.
+* IFTTT: Utilizamos IFTTT para automatizar flujos de trabajo y conectar diferentes aplicaciones y servicios. Con IFTTT, podemos crear recetas para automatizar tareas repetitivas, sincronizar datos y mejorar la eficiencia en nuestros procesos.
+Consultoría SAP
+* SAP ERP: Utilizamos SAP ERP como sistema de gestión de empresas y procesos. Con SAP ERP, podemos gestionar tareas y procesos de manera efectiva, mejorar la eficiencia y reducir costos.
+* SAP S/4HANA: Utilizamos SAP S/4HANA como sistema de gestión de empresas y procesos. Con SAP S/4HANA, podemos gestionar tareas y procesos de manera efectiva, mejorar la eficiencia y reducir costos.

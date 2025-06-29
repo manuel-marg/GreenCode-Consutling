@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>GreenCode Consulting </title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+
+    <!-- Favicon -->
+    <link href="img/favicon.ico" rel="icon">
+
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600&family=Inter:wght@700;800&display=swap"
+        rel="stylesheet">
+
+    <!-- Icon Font Stylesheet -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="lib/animate/animate.min.css" rel="stylesheet">
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Template Stylesheet -->
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+    </style>
+
+    <div class="container-xxl bg-white p-0">
+        <!-- Spinner Start -->
+        <div id="spinner"
+            class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+            <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
+        </div>
+        <!-- Spinner End -->
+
+
+        <!-- Navbar & Hero Start -->
+        <div class="container-xxl position-relative p-0">
+            <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
+                <a href="index.html" class="navbar-brand p-0">
+                    <h1 class="m-0">GreenCode</h1>
+                    <!-- <img src="img/logo.png" alt="Logo"> -->
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                    <span class="fa fa-bars"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <div class="navbar-nav ms-auto py-0">
+                        <a href="#inicio" class="nav-item nav-link active">Inicio</a>
+                        <a href="#sobre-nosotros" class="nav-item nav-link">Sobre Nosotros</a>
+                        <a href="#servicios" class="nav-item nav-link">Servicios</a>
+                        <a href="#testimonios" class="nav-item nav-link">Testimonios</a>
+                    </div>
+                    <a href="mailto:mvsotoalvarez@gmail.com?subject=Solicitud de Presupuesto&body=Hola,%0D%0A%0D%0AMi nombre es [Nombre], represento a la empresa [Nombre de la empresa] y me pongo en contacto contigo para solicitar información detallada sobre los siguientes servicios:%0D%0A-%0D%0A-%0D%0A-%0D%0A%0D%0AEspero puedan ayudarme.%0D%0A%0D%0AAtentamente,%0D%0A[Nombre]"
+                        class="btn btn-light rounded-pill text-primary py-2 px-4 ms-lg-5">
+                        Presupuesto Gratis
+                    </a>
+                </div>
+            </nav>
+
+            <div class="container-xxl bg-primary hero-header" id="inicio">
+                <div class="container">
+                    <div class="row g-5 align-items-center">
+                        <div class="col-lg-6 text-center text-lg-start">
+                            <h1 class="text-white mb-4 animated zoomIn">Impulsa tu negocio con soluciones tecnológicas
+                                personalizadas</h1>
+                            <p class="text-white pb-3 animated zoomIn">En GreenCode Consulting ayudamos a pymes,
+                                startups y emprendedores a digitalizar sus procesos, automatizar tareas repetitivas y
+                                crecer con herramientas hechas a su medida. Ofrecemos acompañamiento integral en
+                                desarrollo de software, consultoría SAP y transformación digital.</p>
+                            <a href="about.html"
+                                class="btn btn-outline-light rounded-pill border-2 py-3 px-5 animated slideInRight">Conoce
+                                más</a>
+                        </div>
+                        <div class="col-lg-6 text-center text-lg-start">
+                            <img class="img-fluid animated zoomIn" src="img/hero.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Navbar & Hero End -->
+
+
+        <!-- About Start -->
+        <div class="container-xxl py-6" id="sobre-nosotros">
+            <div class="container">
+                <div class="row g-5 align-items-center">
+                    <div class="col-lg-6 wow zoomIn" data-wow-delay="0.1s">
+                        <img class="img-fluid" src="img/about.png">
+                    </div>
+                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="d-inline-block border rounded-pill text-primary px-4 mb-3">Sobre Nosotros</div>
+                        <h2 class="mb-4">GreenCode Consulting: Tu socio tecnológico en la transformación digital</h2>
+                        <p class="mb-4">
+                            GreenCode Consulting es una consultora tecnológica especializada en acompañar a pymes,
+                            startups y emprendedores en su proceso de transformación digital. Con más de 30 años de
+                            experiencia combinada entre sus fundadores, ofrecemos soluciones personalizadas como
+                            desarrollo de software, automatización de procesos, consultoría SAP y formación tecnológica.
+                        </p>
+                        <div class="row g-3 mb-4">
+                            <div class="col-12 d-flex">
+                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
+                                    <i class="fa fa-laptop-code text-white"></i>
+                                </div>
+                                <div class="ms-4">
+                                    <h6>Desarrollo de Software a Medida</h6>
+                                    <span>Creamos aplicaciones y herramientas personalizadas que resuelven necesidades
+                                        específicas de tu negocio, optimizando procesos internos y mejorando la
+                                        productividad.</span>
+                                </div>
+                            </div>
+                            <div class="col-12 d-flex">
+                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
+                                    <i class="fa fa-microchip text-white"></i>
+                                </div>
+                                <div class="ms-4">
+                                    <h6>Automatización de Procesos</h6>
+                                    <span>Implementamos flujos de trabajo inteligentes y automatizados para reducir
+                                        tareas manuales, minimizar errores y aumentar la eficiencia operativa.</span>
+                                </div>
+                            </div>
+                        </div>
+                        <a class="btn btn-primary rounded-pill py-3 px-5 mt-2" href="">Conoce más</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- About End -->
+
+        <!-- Newsletter Start -->
+        <div class="container-xxl bg-primary my-6 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="container px-lg-5">
+                <div class="row align-items-center" style="height: 250px;">
+                    <div class="col-12 col-md-6">
+                        <h3 class="text-white">¿Listo para comenzar?</h3>
+                        <small class="text-white">Soluciones tecnológicas personalizadas para tu negocio.</small>
+                        <div class="position-relative w-100 mt-3">
+                            <input id="emailInput" class="form-control border-0 rounded-pill w-100 ps-4 pe-5"
+                                type="email" placeholder="Ingresa tu correo electrónico" style="height: 48px;" required>
+                            <button type="button" onclick="sendEmail()"
+                                class="btn shadow-none position-absolute top-0 end-0 mt-1 me-2">
+                                <i class="fa fa-paper-plane text-primary fs-4"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="col-md-6 text-center mb-n5 d-none d-md-block">
+                        <img class="img-fluid mt-5" style="max-height: 250px;" src="img/newsletter.png">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Newsletter End -->
+
+        <!-- Script para enviar correo -->
+        <script>
+            function sendEmail() {
+                const emailInput = document.getElementById('emailInput');
+                const email = emailInput.value;
+
+                if (email.trim() === '') {
+                    alert('Por favor, ingresa tu correo electrónico.');
+                    return;
+                }
+
+                // Abrir cliente de correo con dirección predefinida
+                window.location.href = `mailto:mvsotoalvarez@gmail.com?subject=Registro desde GreenCode Consulting&body=Correo proporcionado: ${encodeURIComponent(email)}`;
+            }
+        </script>
+
+        <!-- Service Start -->
+        <div class="container-xxl py-6" id="servicios">
+            <div class="container">
+                <div class="mx-auto text-center wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+                    <div class="d-inline-block border rounded-pill text-primary px-4 mb-3">Nuestros Servicios</div>
+                    <h2 class="mb-5">Soluciones Tecnológicas Para Tu Empresa</h2>
+                </div>
+                <div class="row g-4">
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="service-item rounded h-100">
+                            <div class="d-flex justify-content-between">
+                                <div class="service-icon">
+                                    <i class="fa fa-laptop-code fa-2x"></i>
+                                </div>
+                                <a class="service-btn" href="">
+                                    <i class="fa fa-link fa-2x"></i>
+                                </a>
+                            </div>
+                            <div class="p-5">
+                                <h5 class="mb-3">Desarrollo de Software a Medida</h5>
+                                <span>Creamos soluciones personalizadas que resuelven problemas específicos de tu
+                                    negocio, desde herramientas internas hasta sistemas completos de gestión.</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="service-item rounded h-100">
+                            <div class="d-flex justify-content-between">
+                                <div class="service-icon">
+                                    <i class="fa fa-microchip fa-2x"></i>
+                                </div>
+                                <a class="service-btn" href="">
+                                    <i class="fa fa-link fa-2x"></i>
+                                </a>
+                            </div>
+                            <div class="p-5">
+                                <h5 class="mb-3">Automatización de Procesos</h5>
+                                <span>Optimizamos tu operativa mediante la automatización de tareas repetitivas,
+                                    integración de sistemas y flujos de trabajo inteligentes.</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="service-item rounded h-100">
+                            <div class="d-flex justify-content-between">
+                                <div class="service-icon">
+                                    <i class="fa fa-sitemap fa-2x"></i>
+                                </div>
+                                <a class="service-btn" href="">
+                                    <i class="fa fa-link fa-2x"></i>
+                                </a>
+                            </div>
+                            <div class="p-5">
+                                <h5 class="mb-3">Consultoría SAP</h5>
+                                <span>Acompañamos a empresas en la implementación, configuración y optimización de
+                                    soluciones SAP para mejorar su gestión empresarial.</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="service-item rounded h-100">
+                            <div class="d-flex justify-content-between">
+                                <div class="service-icon">
+                                    <i class="fa fa-brain fa-2x"></i>
+                                </div>
+                                <a class="service-btn" href="">
+                                    <i class="fa fa-link fa-2x"></i>
+                                </a>
+                            </div>
+                            <div class="p-5">
+                                <h5 class="mb-3">Acompañamiento Digital</h5>
+                                <span>Guíamos a pymes, startups y emprendedores en su proceso de transformación digital
+                                    con diagnósticos, formación y estrategias personalizadas.</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="service-item rounded h-100">
+                            <div class="d-flex justify-content-between">
+                                <div class="service-icon">
+                                    <i class="fa fa-chart-bar fa-2x"></i>
+                                </div>
+                                <a class="service-btn" href="">
+                                    <i class="fa fa-link fa-2x"></i>
+                                </a>
+                            </div>
+                            <div class="p-5">
+                                <h5 class="mb-3">Análisis de Datos con Power BI</h5>
+                                <span>Transformamos tus datos en información útil mediante reportes visuales
+                                    interactivos y análisis avanzados con Power BI.</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="service-item rounded h-100">
+                            <div class="d-flex justify-content-between">
+                                <div class="service-icon">
+                                    <i class="fa fa-chalkboard-teacher fa-2x"></i>
+                                </div>
+                                <a class="service-btn" href="">
+                                    <i class="fa fa-link fa-2x"></i>
+                                </a>
+                            </div>
+                            <div class="p-5">
+                                <h5 class="mb-3">Formación Tecnológica</h5>
+                                <span>Capacitamos a equipos en herramientas digitales clave, desde software específico
+                                    hasta buenas prácticas de transformación tecnológica.</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Service End -->
+
+
+        <!-- Features Start -->
+        <div class="container-xxl py-6" id="">
+            <div class="container">
+                <div class="row g-5">
+                    <div class="col-lg-5 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="d-inline-block border rounded-pill text-primary px-4 mb-3">Propuesta de Valor</div>
+                        <h2 class="mb-4">¿Por qué elegir a GreenCode? </h2>
+                        <p>En GreenCode Consulting ayudamos a pymes, startups y emprendedores a dar el salto hacia la
+                            transformación digital con soluciones personalizadas, cercanas y técnicamente sólidas.
+                            Nuestro enfoque combina experiencia, agilidad operativa y un profundo compromiso con cada
+                            cliente.</p>
+                        <p>Contamos con más de 30 años de experiencia combinada en tecnología empresarial, con un equipo
+                            multidisciplinario que une experiencia técnica, visión estratégica y pasión por la
+                            innovación. Estamos aquí para convertirnos en tu socio tecnológico de confianza.</p>
+                        <a class="btn btn-primary rounded-pill py-3 px-5 mt-2" href="">Conocer Más</a>
+                    </div>
+                    <div class="col-lg-7">
+                        <div class="row g-5">
+                            <div class="col-sm-6 wow fadeIn" data-wow-delay="0.1s">
+                                <div class="d-flex align-items-center mb-3">
+                                    <div class="flex-shrink-0 btn-square bg-primary rounded-circle me-3">
+                                        <i class="fa fa-cubes text-white"></i>
+                                    </div>
+                                    <h6 class="mb-0">Soluciones a Medida</h6>
+                                </div>
+                                <span>Desarrollamos software personalizado que se adapta exactamente a tus necesidades,
+                                    optimizando procesos y mejorando la eficiencia de tu negocio.</span>
+                            </div>
+                            <div class="col-sm-6 wow fadeIn" data-wow-delay="0.2s">
+                                <div class="d-flex align-items-center mb-3">
+                                    <div class="flex-shrink-0 btn-square bg-primary rounded-circle me-3">
+                                        <i class="fa fa-percent text-white"></i>
+                                    </div>
+                                    <h6 class="mb-0">99% Satisfacción del Cliente</h6>
+                                </div>
+                                <span>Nuestros clientes destacan nuestra capacidad de escuchar, entender y resolver
+                                    problemas reales con soluciones prácticas y efectivas.</span>
+                            </div>
+                            <div class="col-sm-6 wow fadeIn" data-wow-delay="0.3s">
+                                <div class="d-flex align-items-center mb-3">
+                                    <div class="flex-shrink-0 btn-square bg-primary rounded-circle me-3">
+                                        <i class="fa fa-award text-white"></i>
+                                    </div>
+                                    <h6 class="mb-0">Consultoría Certificada</h6>
+                                </div>
+                                <span>Contamos con certificaciones en SAP y amplia experiencia en tecnologías actuales
+                                    como IA, cloud computing y automatización avanzada.</span>
+                            </div>
+                            <div class="col-sm-6 wow fadeIn" data-wow-delay="0.4s">
+                                <div class="d-flex align-items-center mb-3">
+                                    <div class="flex-shrink-0 btn-square bg-primary rounded-circle me-3">
+                                        <i class="fa fa-smile-beam text-white"></i>
+                                    </div>
+                                    <h6 class="mb-0">Clientes Felices y Confiables</h6>
+                                </div>
+                                <span>Trabajamos codo a codo con nuestros clientes, generando relaciones de largo plazo
+                                    basadas en la confianza, el respeto y resultados tangibles.</span>
+                            </div>
+                            <div class="col-sm-6 wow fadeIn" data-wow-delay="0.5s">
+                                <div class="d-flex align-items-center mb-3">
+                                    <div class="flex-shrink-0 btn-square bg-primary rounded-circle me-3">
+                                        <i class="fa fa-user-tie text-white"></i>
+                                    </div>
+                                    <h6 class="mb-0">Expertos en Transformación Digital</h6>
+                                </div>
+                                <span>Nuestro equipo está formado por profesionales con trayectoria comprobada en
+                                    desarrollo de software, consultoría SAP y acompañamiento digital estratégico.</span>
+                            </div>
+                            <div class="col-sm-6 wow fadeIn" data-wow-delay="0.6s">
+                                <div class="d-flex align-items-center mb-3">
+                                    <div class="flex-shrink-0 btn-square bg-primary rounded-circle me-3">
+                                        <i class="fa fa-headset text-white"></i>
+                                    </div>
+                                    <h6 class="mb-0">Soporte Continuo y Personalizado</h6>
+                                </div>
+                                <span>Ofrecemos soporte técnico constante y asesoramiento post-implementación,
+                                    garantizando que siempre obtengas el máximo valor de nuestras soluciones.</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Features End -->
+
+
+        <!-- Client Start 
+        <div class="container-xxl bg-primary my-6 py-5 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="container">
+                <div class="owl-carousel client-carousel">
+                    <a href="#"><img class="img-fluid" src="img/logo-1.png" alt=""></a>
+                    <a href="#"><img class="img-fluid" src="img/logo-2.png" alt=""></a>
+                    <a href="#"><img class="img-fluid" src="img/logo-3.png" alt=""></a>
+                    <a href="#"><img class="img-fluid" src="img/logo-4.png" alt=""></a>
+                    <a href="#"><img class="img-fluid" src="img/logo-5.png" alt=""></a>
+                    <a href="#"><img class="img-fluid" src="img/logo-6.png" alt=""></a>
+                    <a href="#"><img class="img-fluid" src="img/logo-7.png" alt=""></a>
+                    <a href="#"><img class="img-fluid" src="img/logo-8.png" alt=""></a>
+                </div>
+            </div>
+        </div>
+        Client End -->
+
+
+        <!-- Testimonial Start -->
+        <div class="container-xxl py-6" id="testimonios">
+            <div class="container">
+                <div class="mx-auto text-center wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+                    <div class="d-inline-block border rounded-pill text-primary px-4 mb-3">Testimonios</div>
+                    <h2 class="mb-5">Lo que dicen nuestros clientes</h2>
+                </div>
+                <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
+                    <!-- Testimonio 1 -->
+                    <div class="testimonial-item rounded p-4">
+                        <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
+                        <p>"Gracias a GreenCode pudimos automatizar el proceso de reservas y facturación de nuestro
+                            hotel. Ahora todo es más rápido y eficiente. ¡Son excelentes profesionales!"</p>
+                        <div class="d-flex align-items-center">
+                            <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-1.jpg"
+                                alt="Cliente 1">
+                            <div class="ps-3">
+                                <h6 class="mb-1">María López</h6>
+                                <small>Dueña de Hostal Mediterráneo</small>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Testimonio 2 -->
+                    <div class="testimonial-item rounded p-4">
+                        <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
+                        <p>"Desde que trabajamos con GreenCode, nuestra startup tiene herramientas personalizadas que
+                            nos permiten escalar sin depender de grandes empresas tecnológicas. ¡Altamente
+                            recomendados!"</p>
+                        <div class="d-flex align-items-center">
+                            <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-2.jpg"
+                                alt="Cliente 2">
+                            <div class="ps-3">
+                                <h6 class="mb-1">Carlos Domínguez</h6>
+                                <small>Fundador de TravelApp Startup</small>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Testimonio 3 -->
+                    <div class="testimonial-item rounded p-4">
+                        <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
+                        <p>"El acompañamiento de GreenCode ha sido clave para entender cómo integrar tecnología en mi
+                            negocio familiar. Me ayudaron a migrar a un sistema SAP sencillo y ahora tengo mejor control
+                            de inventario y ventas."</p>
+                        <div class="d-flex align-items-center">
+                            <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-3.jpg"
+                                alt="Cliente 3">
+                            <div class="ps-3">
+                                <h6 class="mb-1">Antonio Ruiz</h6>
+                                <small>Propietario de Restaurante La Taberna</small>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Testimonio 4 -->
+                    <div class="testimonial-item rounded p-4">
+                        <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
+                        <p>"GreenCode no solo desarrolló una herramienta a medida para mis procesos administrativos,
+                            sino que me explicó paso a paso cómo usarla. ¡Una experiencia muy profesional y cercana!"
+                        </p>
+                        <div class="d-flex align-items-center">
+                            <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-4.jpg"
+                                alt="Cliente 4">
+                            <div class="ps-3">
+                                <h6 class="mb-1">Laura Fernández</h6>
+                                <small>Emprendedora Digital</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Testimonial End -->
+
+
+        <!-- Team Start -->
+        <div class="container-xxl py-6" id="equipo">
+            <div class="container">
+                <div class="mx-auto text-center wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+                    <div class="d-inline-block border rounded-pill text-primary px-4 mb-3">Nuestro Equipo</div>
+                    <h2 class="mb-5">Conoce a los fundadores de GreenCode</h2>
+                </div>
+                <div class="row g-4">
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="team-item">
+                            <h5>María Valentina Soto</h5>
+                            <p class="mb-4">Innovación</p>
+                            <img class="img-fluid rounded-circle w-100 mb-4" src="img/team-3.jpg" alt="">
+                            <div class="d-flex justify-content-center">
+                                <a class="btn btn-square text-primary bg-white m-1" href="#"><i
+                                        class="fab fa-linkedin-in"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="team-item">
+                            <h5>Yamila Álvarez</h5>
+                            <p class="mb-4">Consultora SAP & Desarrollo Tecnológico</p>
+                            <img class="img-fluid rounded-circle w-100 mb-4" src="img/team-1.jpg" alt="">
+                            <div class="d-flex justify-content-center">
+                                <a class="btn btn-square text-primary bg-white m-1" href="#"><i
+                                        class="fab fa-linkedin-in"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="team-item">
+                            <h5>Rodney Soto</h5>
+                            <p class="mb-4">Gestión Estratégica & Finanzas</p>
+                            <img class="img-fluid rounded-circle w-100 mb-4" src="img/team-2.jpg" alt="">
+                            <div class="d-flex justify-content-center">
+                                <a class="btn btn-square text-primary bg-white m-1" href="#"><i
+                                        class="fab fa-linkedin-in"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                        <div class="team-item">
+                            <h5>Colaborador Destacado</h5>
+                            <p class="mb-4">Experto en Tecnología</p>
+                            <img class="img-fluid rounded-circle w-100 mb-4" src="img/team-4.jpg" alt="">
+                            <div class="d-flex justify-content-center">
+                                <a class="btn btn-square text-primary bg-white m-1" href="#"><i
+                                        class="fab fa-linkedin-in"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Team End -->
+
+
+        <!-- Footer Start -->
+        <div class="container-fluid bg-dark text-light footer pt-5 wow fadeIn" data-wow-delay="0.1s"
+            style="margin-top: 6rem;">
+            <div class="container py-5">
+                <div class="row g-5">
+                    <div class="col-md-6 col-lg-3">
+                        <h5 class="text-white mb-4">Contáctanos</h5>
+                        <p><i class="fa fa-map-marker-alt me-3"></i>Cádiz, Andalucía, España</p>
+                        <p><i class="fa fa-phone-alt me-3"></i>+34 123 456 789</p>
+                        <p><i class="fa fa-envelope me-3"></i>mvsotoalvarez@gmail.com</p>
+                        <div class="d-flex pt-2">
+                            <a class="btn btn-outline-light btn-social" href="#"><i class="fab fa-linkedin-in"></i></a>
+                            <a class="btn btn-outline-light btn-social" href="#"><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-outline-light btn-social" href="#"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <h5 class="text-white mb-4">Enlaces Rápidos</h5>
+                        <a class="btn btn-link" href="#sobre-nosotros">Sobre Nosotros</a>
+                        <a class="btn btn-link" href="#servicios">Servicios</a>
+                        <a class="btn btn-link" href="#equipo">Equipo</a>
+                        <a class="btn btn-link" href="#testimonios">Testimonios</a>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <h5 class="text-white mb-4">Nuestros Servicios</h5>
+                        <a class="btn btn-link" href="#servicios">Desarrollo a Medida</a>
+                        <a class="btn btn-link" href="#servicios">Automatización de Procesos</a>
+                        <a class="btn btn-link" href="#servicios">Consultoría SAP</a>
+                        <a class="btn btn-link" href="#servicios">Acompañamiento Digital</a>
+                        <a class="btn btn-link" href="#servicios">Formación Tecnológica</a>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <h5 class="text-white mb-4">Boletín Informativo</h5>
+                        <p>Suscríbete para recibir consejos de digitalización y novedades de GreenCode Consulting.</p>
+                        <div class="position-relative w-100 mt-3">
+                            <input id="emailInputFooter" class="form-control border-0 rounded-pill w-100 ps-4 pe-5"
+                                type="email" placeholder="Tu Correo Electrónico" style="height: 48px;" required>
+                            <button type="button" onclick="sendEmailFooter()"
+                                class="btn shadow-none position-absolute top-0 end-0 mt-1 me-2">
+                                <i class="fa fa-paper-plane text-primary fs-4"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="copyright">
+                    <div class="row">
+                        <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+                            &copy; <a class="border-bottom" href="#">GreenCode Consulting</a>, Todos los derechos
+                            reservados.
+
+                            <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal ". Thank you for your support. ***/-->
+                            Diseñado por <a class="border-bottom" href="https://htmlcodex.com ">HTML Codex</a>
+                        </div>
+                        <div class="col-md-6 text-center text-md-end">
+                            <div class="footer-menu">
+                                <a href="#">Política de Cookies</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Footer End -->
+
+        <!-- Script para enviar correo desde el footer -->
+        <script>
+            function sendEmailFooter() {
+                const emailInput = document.getElementById('emailInputFooter');
+                const email = emailInput.value;
+
+                if (email.trim() === '') {
+                    alert('Por favor, ingresa tu correo electrónico.');
+                    return;
+                }
+
+                window.location.href = `mailto:mvsotoalvarez@gmail.com?subject=Subscripción Boletín GreenCode&body=Correo proporcionado: ${encodeURIComponent(email)}`;
+            }
+        </script>
+
+
+        <!-- Back to Top -->
+        <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+    </div>
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/wow/wow.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
+</body>
+
+</html>
